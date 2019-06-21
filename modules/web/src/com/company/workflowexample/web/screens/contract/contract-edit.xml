@@ -2,7 +2,7 @@
 <window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
         caption="msg://editorCaption"
         focusComponent="form"
-        messagesPack="com.company.bpmdemo.web.contract">
+        messagesPack="com.company.workflowexample.web.contract">
     <data>
         <instance id="contractDc"
                   class="com.company.workflowexample.entity.Contract"
